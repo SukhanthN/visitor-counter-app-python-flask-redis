@@ -1,4 +1,4 @@
-## Docker Compose sample application
+## Compose sample application
 
 ### Use with Docker Development Environments
 
